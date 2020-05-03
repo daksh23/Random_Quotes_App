@@ -1,0 +1,22 @@
+
+header{
+    font-family: 'Pacifico', cursive;
+    color: blanchedalmond;
+    display: flex;
+    font-size: 20px;
+}
+
+.row{
+    width: 100%;
+}
+
+.left {
+    float: left;
+    margin-left: 10px;
+  }
+  .right {
+    float: right;
+    margin-right: 10px;
+  }
+
+/* for new ideas : developer used float not textalign */
